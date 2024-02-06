@@ -8,10 +8,10 @@ Use [postgrest](http://postgrest.org) ([github](https://github.com/PostgREST/pos
 
 ## Usage
 
-`npm install postgrest`
+`yarn add @cybertec-postgresql/postgrest-node`
 
 ```javascript
-const postgrest = require("postgrest")
+const postgrest = require("@cybertec-postgresql/postgrest-node")
 
 const server = postgrest.startServer({
   dbUri: "postgres://postgrest@localhost:5432/postgres",
