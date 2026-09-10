@@ -14,7 +14,7 @@
     "decamelize": "^4.0.0",
     "decompress-tar": "^4.1.1",
     "follow-redirects": "^1.13.0",
-    "tar": "^6.0.5",
+    "tar": "^7.5.21",
     "tmp": "^0.2.1",
     "xz": "^2.0.2"
   },
